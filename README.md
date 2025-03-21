@@ -1,4 +1,4 @@
-# Twilio Verify OTP Integration POC for Sympla
+# Twilio Verify OTP | TOTP Integration POC for Sympla
 
 ## Project Overview
 
@@ -114,13 +114,3 @@ streamlit run app.py
 - Integration with fraud detection systems
 - Push notification authentication
 - U2F/WebAuthn support (hardware security keys)
-
-## License
-
-[MIT License](LICENSE)
-
-## Acknowledgments
-
-- Twilio for providing the Verify API
-- Streamlit for the web application framework
-- PyOTP for the TOTP implementation
