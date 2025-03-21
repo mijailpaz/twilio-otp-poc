@@ -158,7 +158,7 @@ def on_totp_reset():
     st.rerun()
 
 # --- Streamlit App ---
-st.title("Twilio Verify OTP Integration POC for Sympla")
+st.title("Twilio Verify OTP | TOTP Integration POC for Sympla")
 
 # Add POC explanation
 st.markdown("""
