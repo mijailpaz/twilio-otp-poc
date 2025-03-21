@@ -4,9 +4,9 @@
 
 This proof-of-concept (POC) demonstrates the integration of Twilio Verify for One-Time Password (OTP) authentication within the Sympla event registration platform. The solution introduces an additional security layer that validates the user's phone number before finalizing sensitive transactions, such as submitting bank account details.
 
-![Twilio Verify Flow](https://twilio-cms-prod.s3.amazonaws.com/images/verify-flow-transparent-background.width-800.png)
+![Twilio Verify Flow](image.png)
 
-## Key Features
+## Key Features 
 
 - **Enhanced Security**: OTP-based verification ensures that only authenticated users can submit sensitive data.
 - **Streamlined User Experience**: Seamless integration of OTP verification within the existing registration flow.
