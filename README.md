@@ -4,7 +4,7 @@
 
 This proof-of-concept (POC) demonstrates the integration of multiple authentication methods within the Sympla event registration platform. The solution introduces additional security layers that validate the user's identity before finalizing sensitive transactions, such as submitting bank account details.
 
-![Twilio Verify Flow](https://twilio-cms-prod.s3.amazonaws.com/images/verify-flow-transparent-background.width-800.png)
+![Twilio Verify Flow](image.png)
 
 ## Key Features
 
